@@ -1,6 +1,6 @@
 # Overview
 
-Here you'll find details about the sequence of events happening in the simulation. When your simulation has been [kickstarted](../build/kickstart.md), 3 sensor glucose values of 5 mmol/l or 90 md/dl (sgv) have been uploaded to your Nightscout (NS) website. 
+Here you'll find details about the sequence of events happening in the simulation. When your simulation has been [kickstarted](/admin/kickstart.md), 3 sensor glucose values of 5 mmol/l or 90 md/dl (sgv) have been uploaded to your Nightscout (NS) website. 
 
 The "inner clock" of the computer hosting the simulation will trigger the execution of various scripts at regular intervals. 
 

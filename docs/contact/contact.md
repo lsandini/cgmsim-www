@@ -44,4 +44,4 @@ Click the Donate button above to support my work, if you feel it was worth the e
 
 Alternatively consider making a donation to [Tidepool](https://tidepool.salsalabs.org/tidepool-donate/index.html), the [Nightscout Foundation](https://www.nightscoutfoundation.org/donate), the [JDRF](https://www2.jdrf.org/site/Donation2?2376.donation=form1&df_id=2376&s_src=jdrf.org&s_subsrc=siteMenuButton) or any charitable organisation of your choice !
 
-  ![Kinkku](img/pigscout_white144.png)
+  ![Kinkku](/img/pigscout_white144.png)

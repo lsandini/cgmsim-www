@@ -37,7 +37,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
-    - stylesheets/admonitions.css
+    #- stylesheets/admonitions.css
     - stylesheets/extra.css
 
 extra:
@@ -70,18 +70,15 @@ copyright: |
   &copy; 2023 <a href="https://github.com/lsandini"  target="_blank" rel="noopener">CGMSIM team</a>
 
 nav:
-- Home: 'index.md'
-
+- Home: 
+    - Introduction: 'index.md'
 - Admin Panel:
-
     - Login: 
-
-        - Google: 'admin/login/google.md'
         - Fitbit: 'admin/login/fitbit.md'
+        - Google: 'admin/login/google.md'
         - Local user: 'admin/login/local.md'
 
     - Profile: 
-
         - Preprofile: 'admin/profile/preprofile.md'
         - Profile (desktop): 'admin/profile/profile.md'
         - Profile (mobile): 'admin/profile/profile-mobile.md' 
@@ -93,26 +90,24 @@ nav:
     - Activate: 'admin/activate.md'
 
 - Nightscout: 
-
     - Profile: 'nightscout/profile.md'
     - Treatments: 'nightscout/treatments.md'
     - Activity: 'nightscout/activity.md'
     - Pump mode: 'nightscout/pump-mode.md'
 
 - Mathematical models:
-
-    - CGMSIM:
-    
-        - mealtime insulin: 'model/mealtime.md'
-        - long-acting Agonists: 'model/la-agonists.md'
-        - carbs: 'model/food.md'
-        - endogenous glucose production: 'model/liver.md'
-        - physical activity: 'model/physical.md'
-        - random effects: 'model/random.md'
-
+    - CGMSIM:  
+        - Overview: 'model/overview.md'  
+        - Mealtime insulin: 'model/mealtime.md'
+        - Long-acting Agonists: 'model/la-agonists.md'
+        - Carbs: 'model/food.md'
+        - Endogenous Glucose Production: 'model/liver.md'
+        - Physical Activity: 'model/physical.md'
+        - Random Effects: 'model/random.md'
     - UVA/Padova: 'model/uva-padova.md'
 
-- Contact: 'contact.md'
+- Contact: 
+    - Contact: 'contact/contact.md'
 
 
 
