@@ -29,9 +29,7 @@ CGMSIM now includes optional **email alerts** for high and low blood glucose lev
 
 <br>
 
-##Introduction
-
-
+## Introduction
 
 <br>
 Since even the most accurate physiological simulators can at best provide only an approximation of what happens in a living organism, the goal of this simulation is not even to try to match reality, but to provide a framework for practising, learning and/or teaching.
@@ -81,6 +79,9 @@ This website will describe step by step how create your virtual subject's profil
 ## Where is the source code ?
 
 **The source code and more technical details on how various scripts are excecuted and interact with each other can be found in the [CGMSIM project's repository](https://github.com/lsandini/cgmsim)**
+
+
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DEJWGQQJ5"></script>

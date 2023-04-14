@@ -3,17 +3,24 @@ site_name: CGMSIM documentation
 theme:
   name: material
   highlightjs: true
-  logo: 'logo.png'
+  logo: img/logo.png
+  favicon: img/favicon.ico
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - toc.integrate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    # - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: en
   palette:
     - scheme: default
@@ -33,6 +40,7 @@ theme:
 
 extra_javascript:
   - javascript/extra.js
+  - javascript/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
@@ -50,8 +58,13 @@ extra:
     #   link: https://www.linkedin.com/in/willettjames/
 
 markdown_extensions:
+  - toc:
+      permalink: true
+      title: On this page
+
   - pymdownx.highlight:
       anchor_linenums: true
+
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
@@ -71,29 +84,29 @@ copyright: |
 
 nav:
 - Home: 
-    - Introduction: 'index.md'
+    - index.md
 - Admin Panel:
     - Login: 
-        - Fitbit: 'admin/login/fitbit.md'
-        - Google: 'admin/login/google.md'
-        - Local user: 'admin/login/local.md'
+        - Fitbit: admin/login/fitbit.md
+        - Google: admin/login/google.md
+        - Local: admin/login/local.md
 
     - Profile: 
-        - Preprofile: 'admin/profile/preprofile.md'
-        - Profile (desktop): 'admin/profile/profile.md'
-        - Profile (mobile): 'admin/profile/profile-mobile.md' 
-
-    - Create Nightscout: 'admin/create-nightscout.md'
-    - Subject: 'admin/subject.md'
-    - Parameters: 'admin/parameters.md'
-    - Kickstart: 'admin/kickstart.md'
-    - Activate: 'admin/activate.md'
+        - admin/profile/preprofile.md
+        - admin/profile/profile-desktop.md
+        - admin/profile/profile-mobile.md
+        - admin/create-nightscout.md
+        - admin/subject.md
+        - admin/parameters.md
+        - admin/kickstart.md
+        - admin/activate.md
 
 - Nightscout: 
-    - Profile: 'nightscout/profile.md'
-    - Treatments: 'nightscout/treatments.md'
-    - Activity: 'nightscout/activity.md'
-    - Pump mode: 'nightscout/pump-mode.md'
+    - nightscout/profile.md
+    - nightscout/meals.md
+    - nightscout/la-agonists.md
+    - nightscout/activity.md
+    - nightscout/pump-mode.md
 
 - Mathematical models:
     - CGMSIM:  
@@ -108,6 +121,3 @@ nav:
 
 - Contact: 
     - Contact: 'contact/contact.md'
-
-
-

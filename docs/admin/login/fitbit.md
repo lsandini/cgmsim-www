@@ -1,14 +1,26 @@
-<!-- ![Carb Absorption Rate](/img/works_with_fitbit.png) -->
+<!-- <img src="/img/works_with_fitbit.png" alt="Works with Fitbit" width="400"/> -->
 
-<img src="/img/works_with_fitbit.png" alt="Works with Fitbit" width="400"/>
+Fitbit is the preferred method for creating and authenticating accounts in CGMSIM. When you sign in using your Fitbit<sup>®</sup> credentials, you give CGMSIM permission to access your physical activity data from the Fitbit Web API. <u>However, CGMSIM will only retrieve your data when you specify it separately in the Admin Panel</u>.
 
-Fitbit is the method of choice for account creation and authentication in CGMSIM. When signing in using your Fitbit<sup>®</sup> credentials, you allow CGMSIM to retrieve data about your physical activity from the Fitbit Web API. <u>However, CGMSIM will retrieve your data only after you specify it separately</u>.
+Although the Fitbit app on your phone uploads data to the Fitbit server every 15 minutes, we retrieve data every 5 minutes to ensure we always have the latest information.
 
-While the Fitbit application in your cell phone uploads data to the Fitbit server about every 15 minutes, we retrieve data every 5 minutes in order to always obtain the most recent data.
+We then format and send your data to the Nightscout webpage, where it is stored along with your CGM values and treatment entries (insulin and meals).
 
-Your data is then formatted and sent to the Nightscout webpage, where it is stored along to your CGM values and treatment entries (insulins, meals).
 
-<hr>
+## 1. Sign-in using Fitbit
+<img src="/img/login1.jpg" alt="Login page" width="400" />
+
 <br>
 
-<img src="/img/login1.jpg" alt="Login page" width="400"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="/img/login_fitbit.jpg" alt="Login page" width="400"/>
+### Something else
+## 2. Enter your credentials
+<img src="/img/login2.jpg" alt="Login page" width="400"/>
+
+<br>
+
+## 3. Open the Menu
+<img src="/img/login3.jpg" alt="Login page" width="400"/>
+
+<br>
+## 4. Activate the switch 
+<img src="/img/login4.jpg" alt="Login page" width="400"/>

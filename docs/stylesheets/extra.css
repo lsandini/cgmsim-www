@@ -5,3 +5,47 @@
 [data-md-color-scheme="slate"] {
 --md-primary-fg-color:        #00A4B5;
 }
+
+img {
+  /* padding: 20px; */
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* .md-sidebar {
+  color: red;
+  background-color: purple;
+}
+
+.md-sidebar--primary {
+  color: red;
+  background-color: purple;
+}
+
+.md-nav__title {
+  color: red;
+  background-color: purple;
+}
+
+.md-nav__list {
+  color: rgb(250, 210, 250);
+  background-color: yellow;
+}
+
+.md-nav__list {
+  color: lightgoldenrodyellow;
+  background-color: cyan;
+}
+
+.md-nav__item {
+  color: lightcoral
+  background-color: green;
+}
+
+.md-nav__item--section {
+  background-color: red;
+}
+
+.md-nav__item--nested {
+  background-color: lightblue;
+} */
