@@ -21,7 +21,7 @@ Apart from our simplified model, the developers of the <a href="https://lt1.org/
 
 CGMSIM v3.0 is a brand new web application, with a completely rewritten codebase. To use it, you can either create an account or log in using your Google or Fitbit credentials via this link: <a href="https://passport-auth-nodejs.herokuapp.com/" target="_blank"> https://passport-auth-nodejs.herokuapp.com/</a>
 
-$\textcolor{red}{\textsf{The URL above is temporary !!!}}$ 
+<span style="color:red"> The URL above is temporary !!!</span>
 
 **Email alerts** about HIGH and LOW blood glucose have been added. In addition, iOS and Android applications have been created, providing **push notifications** in the same situations.
 
