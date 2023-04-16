@@ -92,14 +92,14 @@ nav:
         - Local: admin/login/local.md
 
     - Profile: 
-        - admin/profile/preprofile.md
-        - admin/profile/profile-desktop.md
-        - admin/profile/profile-mobile.md
-        - admin/create-nightscout.md
-        - admin/subject.md
-        - admin/parameters.md
-        - admin/kickstart.md
-        - admin/activate.md
+        - Pre-profile: admin/profile/preprofile.md
+        - Desktop Profile: admin/profile/profile-desktop.md
+        - Mobile Profile: admin/profile/profile-mobile.md
+        - Create Nightscout: admin/create-nightscout.md
+        - Define Subject: admin/subject.md
+        - CGMSIM parameters: admin/parameters.md
+        - Kickstart: admin/kickstart.md
+        - Activate: admin/activate.md
 
 - Nightscout: 
     - nightscout/profile.md

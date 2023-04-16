@@ -13,7 +13,7 @@ When signing in with Google credentials,
 <hr>
 <br>
 ## 1. Sign-in using Google
-<img src="/img/login_g1.jpg" alt="Login page" width="400"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="/img/login_g1.jpg" alt="Login page" width="400"/>
 
 <br>
 ## 2. Select your Google account 
@@ -25,7 +25,7 @@ When signing in with Google credentials,
 
 <br>
 ## 3. Open the menu
-<img src="/img/login3.jpg" alt="Login page" width="400"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="/img/login3.jpg" alt="Login page" width="400"/>
 
 <br>
 ## 4. Activate the switch 
