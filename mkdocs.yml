@@ -95,11 +95,15 @@ nav:
         - Pre-profile: admin/profile/preprofile.md
         - Desktop Profile: admin/profile/profile-desktop.md
         - Mobile Profile: admin/profile/profile-mobile.md
-        - Create Nightscout: admin/create-nightscout.md
-        - Define Subject: admin/subject.md
-        - CGMSIM parameters: admin/parameters.md
-        - Kickstart: admin/kickstart.md
-        - Activate: admin/activate.md
+        - Profiles in detail:
+              - Create Nightscout: admin/create-nightscout.md
+              - Define Subject: admin/subject.md
+              - CGMSIM parameters: admin/parameters.md
+              - Noise: admin/noise.md
+              - Kickstart: admin/kickstart.md
+              - Push Alerts: admin/push_alerts.md
+              - Activate: admin/activate.md
+              - Model: admin/model.md
 
 - Nightscout: 
     - nightscout/profile.md
