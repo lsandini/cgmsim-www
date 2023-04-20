@@ -12,6 +12,7 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.tracking
+    - navigation.footer
     - toc.follow
     # - toc.integrate
     - navigation.top
