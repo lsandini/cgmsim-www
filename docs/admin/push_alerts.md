@@ -1,16 +1,16 @@
 # Push Alerts
-## Apple iOS and watchOS
 
 Push alerts require the use of our CGMSIM mobile app, **they are not operative in the standalone mobile profile !**
+## Apple iOS and watchOS
 
 The CGMSIM mobile app for iOS requires Testflight to be installed on your iPhone. Get it from the AppStore.
-Testflight is Apple's official app allowing the distribution of iOS applications for testing purposes. 
+Testflight is Apple's official app for distributing iOS applications for testing purposes. 
 
 <img src="/img/testflight1.jpg" alt="Random Create" width="400"/>
 
 [Request an invitation from one of the developers here !](../contact/contact.md) 
 
-When requesting an invitation, indicate the email address used as your Apple ID. Once your request is accepted, cgmsim-app will be visibile in Testflight and valid for 90 days. A new version will be deployed every 90 days and you'll be prompted update your current version of cgmsim-app.
+When requesting an invitation, indicate the email address used as your Apple ID. Once your request is accepted, cgmsim-app will be visible in Testflight and valid for 90 days. A new version will be deployed every 90 days and you'll be prompted update your app.
 
 <img src="/img/testflight2.jpg" alt="Random Create" width="400"/>
 
