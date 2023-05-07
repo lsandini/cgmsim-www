@@ -45,3 +45,9 @@ This is a typical push alert :
 <img src="/img/push_ios.jpg" alt="Random Create" width="400"/>
 
 <img src="/img/push_watchOS.jpg" alt="Random Create" width="400"/>
+
+<hr>
+
+You're all set ! Now let's [activate the simulation](activate.md)
+
+<br>
