@@ -90,7 +90,7 @@ nav:
     - Login: 
         - Fitbit: admin/login/fitbit.md
         - Google: admin/login/google.md
-        - Local: admin/login/local.md
+        - Local Sign-in: admin/login/local.md
 
     - Profile: 
         - Pre-profile: admin/profile/preprofile.md

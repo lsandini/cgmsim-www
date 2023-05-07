@@ -12,7 +12,6 @@ We then format and send your data to the Nightscout webpage, where it is stored 
 
 <br>
 
-### Something else
 ## 2. Enter your credentials
 <img src="/img/login2.jpg" alt="Login page" width="400"/>
 
@@ -24,3 +23,5 @@ We then format and send your data to the Nightscout webpage, where it is stored 
 <br>
 ## 4. Activate the switch 
 <img src="/img/login4.jpg" alt="Login page" width="400"/>
+
+You can "uncouple" your data from CGMSIM by deactivating the switch any time.

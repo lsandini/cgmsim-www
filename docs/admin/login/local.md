@@ -1,8 +1,8 @@
 Should you prefer not to use Fitbit or Google sign-in credentials, you can create a new account by clicking the "Sign up using Email" link on the top right of the page.
 
-Once your account is created, just sign-in using your email address and password. 
+Once your account is created, just sign-in using your email address and password. Be sure to use a real email address, as it can be used to retrieve forgotten passords.
 
-The options concerning physical activities are not available for users signed in using a local password.
+The options concerning physical activities are not available for users signed in using a local account.
 
 ## 1. Sign-up using Email
 <img src="/img/sign_in_local.jpg" alt="Sign-in Link" width="400"/>

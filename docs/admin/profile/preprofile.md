@@ -1,6 +1,6 @@
-On your first login, you will be presented the opportunity to create a random profile for your virtual subject. This menu will be presented only once !
+On your first login, you will be presented the opportunity to create a random profile for your virtual subject. <u>This pre-profile page  will be presented only once !</u>
 
-Press the "Random Create" button until satisfied byt the suggestion, or alternatively manually select the gender, age, weight and height of your subject, and then save your settings.
+Press the "Random Create" button until satisfied with the suggestion. Alternatively, manually select the gender, age, weight and height of your subject, and then save your settings.
 
 After this, you will be taken to CGMSIM's Admin Panel.
 

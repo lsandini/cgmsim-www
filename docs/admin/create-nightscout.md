@@ -1,4 +1,7 @@
 ## Nightscout setup
+
+Nightscout provides a graphical interface where the CGM results are displayed every 5 minutes. It also allows for logging meals, insulin doses, physical activity, etc... <a href="https://nightscout.github.io" target="_blank">The documentation about Nightscout can be found here.</a>
+
 In order to modify or the content of the following form fields, please press the blue "Edit" button at the bottom. The form opens in an editable mode, after which you'll be prompted to save your changes.
 
 The creation of the Nightscout website using CGMSIM's Admin Panel is detailed in the [Desktop Profile](profile/profile-desktop.md) page.
