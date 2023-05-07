@@ -4,7 +4,8 @@ Press the "Random Create" button until satisfied with the suggestion. Alternativ
 
 After this, you will be taken to CGMSIM's Admin Panel.
 
-## 1. Random Create
+## Randomly create a subject
+
 <img src="/img/pre_profile_2b.jpg" alt="Random Create" width="400"/>
 
 

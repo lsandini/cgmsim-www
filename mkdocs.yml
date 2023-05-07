@@ -97,7 +97,7 @@ nav:
         - Desktop Profile: admin/profile/profile-desktop.md
         - Mobile Profile: admin/profile/profile-mobile.md
         - Profiles in detail:
-              - Create Nightscout: admin/create-nightscout.md
+              - Deploy Nightscout: admin/create-nightscout.md
               - Define Subject: admin/subject.md
               - CGMSIM parameters: admin/parameters.md
               - Noise: admin/noise.md
