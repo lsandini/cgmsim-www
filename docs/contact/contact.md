@@ -1,8 +1,25 @@
 ## Meet the team
 
-&nbsp;&nbsp; Lorenzo Sandini, ...
+Lorenzo Sandini
+<a href="https://github.com/lsandini" target="blank">View on Github :octicons-mark-github-16:{ .github }</a>
 
-&nbsp;&nbsp; Nicola Febbrari, ...
+<img src="https://avatars.githubusercontent.com/u/18611419?v=4" alt="" width="100" height="100" id="hp" style="float: left; margin: 0 15px 0 0;"/>
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+<span style="font-size:smaller">I am an endocrinologist/diabetologist, with an interest for things that tick and beep.</span>
+
+<hr>
+
+Nicola Febbrari
+<a href="https://github.com/nickxbs" target="blank">View on Github :octicons-mark-github-16:{ .github }</a>
+
+<img src="https://avatars.githubusercontent.com/u/1084464?v=4" alt="" width="100" height="100" id="hp" style="float: left; margin: 0 15px 0 0;"/>
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+<span style="font-size:smaller">I am an IT engineer with an interest for medicine :fontawesome-regular-face-laugh-wink:</span>
+
+
+<hr>
 
 ## Contact us ! 
 

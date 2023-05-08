@@ -15,7 +15,7 @@ This animation rendered in [p5.js](https://p5js.org/) illustrates a continuously
 <iframe style="width: 400px; height: 250px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/lsandini/full/F1CtK8SNk"></iframe>
 <br>
 
-## Astronomy
+## Astronomy   <span style="color:red">(NOT INCLUDED IN CGMSIM 3 !!!)</span>
 
 As many T1D patients say as a joke from time to time, their blood sugar variations seem to be "influnced by the stars, the planets and the Moon...". Jokes apart, CGMSIM v2.0 lacked this kind of variability over time, and was felt as "too static" by some users, despite the perlin variation described above. 
 
