@@ -1,5 +1,6 @@
 site_name: CGMSIM documentation
-
+site_url: http://localhost:8000/support/
+use_directory_urls: false
 theme:
   name: material
   highlightjs: true

@@ -5,7 +5,7 @@ CGMSIM is written as a very simplified model of human physiology, <u>certainly n
 
 Be aware that this model require a lot of specific subject parameters and for now only one subject is modeled. This UVA/Padova simulation initiates in a steady state in "insulin pump mode" and ignores any long-acting insulin agonist entries or superimposed noise. It is here for testing purposes only.
 
-<img src="/img/profile_mobile_model.jpg" alt="Random Create" width="400"/>
+<img src="../img/profile_mobile_model.jpg" alt="Random Create" width="400"/>
 
 <hr>
 

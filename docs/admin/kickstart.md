@@ -6,7 +6,7 @@ CGMSIM bases its calculations on the impact of Insulin on board (IOB), Carbs on 
 
 The product is a "difference" or "delta", applied on the last reported value. 
 
-<img src="/img/profile_mobile_kickstart.jpg" alt="Random Create" width="400"/>
+<img src="../img/profile_mobile_kickstart.jpg" alt="Random Create" width="400"/>
 
 The Kickstarter can be re-used later to re-initiate the simulation.
 

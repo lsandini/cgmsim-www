@@ -6,7 +6,7 @@ After this, you will be taken to CGMSIM's Admin Panel.
 
 ## Randomly create a subject
 
-<img src="/img/pre_profile_2b.jpg" alt="Random Create" width="400"/>
+<img src="../../img/pre_profile_2b.jpg" alt="Random Create" width="400"/>
 
 
 

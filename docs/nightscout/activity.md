@@ -1,6 +1,6 @@
 CGMSIM is responsible for downloading your fitness data from either the Fitbit or Google servers. To ensure your data is uploaded to Nightscout, activate the corresponding switch in CGMSIM's Admin panel.
 
-<img src="/img/login4.jpg" alt="Login page" width="300"/>
+<img src="../img/login4.jpg" alt="Login page" width="300"/>
 
 Following that, you can confirm if your activity data has been successfully uploaded by appending ".../api/v1/activity" to your Nightscout website URL in the following manner:
 

@@ -13,7 +13,7 @@ Each simulated adult patient is coupled to a <a href="https://nightscout.github.
 
 <u>Manage your virtual patient in a browser with your handeld device, CGMSIM runs in the cloud !</u>
 
-<img src="/img/handheld3.svg" alt="Login page" width="225"/> &nbsp;&nbsp; <img src="/img/CGMSIM.gif" alt="Login page" width="400"/> &nbsp;&nbsp;  <img src="/img/datacenter.svg" alt="Login page" width="225"/>
+<img src="img/handheld3.svg" alt="Login page" width="225"/> &nbsp;&nbsp; <img src="img/CGMSIM.gif" alt="Login page" width="400"/> &nbsp;&nbsp;  <img src="img/datacenter.svg" alt="Login page" width="225"/>
 
 ## New features :
 

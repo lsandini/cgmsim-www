@@ -11,23 +11,23 @@ Due to Google strict data protection policy, CGMSIM would need to undergo an ext
 <hr>
 
 ## 1. Sign-in using Google
-<img src="/img/login_g1.jpg" alt="Login page" width="400"/>
+<img src="../../img/login_g1.jpg" alt="Login page" width="400"/>
 
 <br>
 ## 2. Select your Google account 
-<img src="/img/login_g2.jpg" alt="Login page" width="400"/>
+<img src="../../img/login_g2.jpg" alt="Login page" width="400"/>
 
 <br>
 ## 2b. Acknowledge the warning and click "Advanced"
-<img src="/img/login_g3.jpg" alt="Login page" width="400"/> 
+<img src="../../img/login_g3.jpg" alt="Login page" width="400"/> 
 
 <br>
 ## 3. Open the menu
-<img src="/img/login3.jpg" alt="Login page" width="400"/>
+<img src="../../img/login3.jpg" alt="Login page" width="400"/>
 
 <br>
 ## 4. Activate the switch 
-<img src="/img/login4.jpg" alt="Login page" width="400"/>
+<img src="../../img/login4.jpg" alt="Login page" width="400"/>
 
 You can "uncouple" your data from CGMSIM by deactivating the switch any time.
 

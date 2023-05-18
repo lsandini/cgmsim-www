@@ -2,7 +2,7 @@ Your virtual subject has been set up, and you'll now access your personal CGMSIM
 
 The desktop version and the mobile version present the same options. We'll go through them in details in the [Mobile Profile](profile-mobile.md) page.
 ## Desktop view
-<img src="/img/profile-desktop.jpg" alt="Random Create" width="400"/>
+<img src="../../img/profile-desktop.jpg" alt="Random Create" width="400"/>
 
 ## Mobile view
 
