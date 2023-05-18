@@ -38,6 +38,7 @@ theme:
       accent: lime
   font:
     text: Roboto
+  custom_dir: overrides
 
 extra_javascript:
   - javascript/extra.js
@@ -47,7 +48,9 @@ extra_javascript:
 
 extra_css:
     #- stylesheets/admonitions.css
+    - stylesheets/appster.css
     - stylesheets/extra.css
+
 
 extra:
   social:
