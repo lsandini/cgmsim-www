@@ -1,7 +1,7 @@
 # CGMSIM parameters
 Various physiological parameters can be selected here. The labels for the variables are self-explanatory. To modify the parameters, scroll down to the bottom of the page and press **Edit"**. 
 
-<img src="/img/profile_mobile_params.jpg" alt="Random Create" width="400"/>
+<img src="../img/profile_mobile_params.jpg" alt="Random Create" width="400"/>
 
 ## Insulin Sensitivity Factor (ISF)
 

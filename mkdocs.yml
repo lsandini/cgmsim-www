@@ -1,5 +1,6 @@
 site_name: CGMSIM documentation
-
+site_url: http://localhost:8000/support/
+use_directory_urls: false
 theme:
   name: material
   highlightjs: true
@@ -38,6 +39,7 @@ theme:
       accent: lime
   font:
     text: Roboto
+  custom_dir: overrides
 
 extra_javascript:
   - javascript/extra.js
@@ -47,7 +49,9 @@ extra_javascript:
 
 extra_css:
     #- stylesheets/admonitions.css
+    - stylesheets/appster.css
     - stylesheets/extra.css
+
 
 extra:
   social:

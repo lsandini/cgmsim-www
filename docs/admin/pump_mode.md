@@ -1,6 +1,6 @@
 ## Basal/bolus CSII
 
-In virtual pump mode, the basal infusion rate is set on [Nightscout's Profile Editor](../nightscout/profile.md).
+In virtual pump mode, the basal infusion rate is set on [Nightscout's Profile Editor](nightscout/profile.md).
 
 This is a simple implementation of a basic basal/bolus CSII, without temporary basal rates, bolus wizard or other special features.
 
@@ -14,10 +14,10 @@ If you decide to connect your virtual patient to a device running iOS Loop, Free
 
 In Nightscout's settings, remember to activate the desired plugins (Pump + Loop/OpenAPS).
 
-<img src="/img/ns_diyaps.jpg" alt="Hamburger Menu" width="400"/>
+<img src="../img/ns_diyaps.jpg" alt="Hamburger Menu" width="400"/>
 
 <hr>
 
-Read here about [setting the basal insulin infusion rates with Nightscout's Profile Editor"](../nightscout/profile.md)
+Read here about [setting the basal insulin infusion rates with Nightscout's Profile Editor"](nightscout/profile.md)
 
 <br>

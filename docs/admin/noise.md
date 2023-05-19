@@ -3,7 +3,7 @@ Some level of "randomness" is added to CGMSIM's calculations. It represents the 
 
 This is completly empiric and we suggest you keep to the suggested values. However, you are free to experiment with different values.
 
-<img src="/img/profile_mobile_noise.jpg" alt="Random Create" width="400"/>
+<img src="../img/profile_mobile_noise.jpg" alt="Random Create" width="400"/>
 
 ## Details
 
