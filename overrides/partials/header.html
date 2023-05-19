@@ -27,7 +27,18 @@ in features %} {% set class = class ~ " md-header--shadow" %} {% endif %}
 				</li>
 			</ul>
 		</div>
+		{% if "material/search" in config.plugins %}
+	
+		<label class="md-header__button md-icon" for="__search">
+			{% include ".icons/material/magnify.svg" %}
+		</label>
+		{% include "partials/search.html" %}
+	
+	{% endif %}
 	</nav>
-	{% if "navigation.tabs.sticky" in features %} {% if "navigation.tabs" in
-	features %} {% include "partials/tabs.html" %} {% endif %} {% endif %}
+	{% if "navigation.tabs.sticky" in features %} 
+		{% if "navigation.tabs" in	features %} 
+			{% include "partials/tabs.html" %} 
+		{% endif %} 
+	{% endif %}
 </header>
