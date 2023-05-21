@@ -24,6 +24,10 @@ theme:
     - content.code.copy
 
   language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
   font:
     text: Roboto
   custom_dir: overrides
@@ -36,7 +40,7 @@ extra_javascript:
 
 extra_css:
     #- stylesheets/admonitions.css
-    - stylesheets/appster.css
+    # - stylesheets/appster.css
     - stylesheets/extra.css
 
 
