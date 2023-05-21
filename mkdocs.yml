@@ -24,19 +24,6 @@ theme:
     - content.code.copy
 
   language: en
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: deep orange
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
   font:
     text: Roboto
   custom_dir: overrides
