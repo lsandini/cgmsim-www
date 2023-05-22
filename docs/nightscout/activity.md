@@ -10,4 +10,4 @@ https://YOUR_NIGHTSCOUT.cgmsim.com/api/v1/activity
 <br>
 Finally, CGMSIM can be operated in "pump" mode, which means without long-acting insulin agonists. For this, a profile of insulin "basal infusion rates" must be present in Nightscout's profile.
 
-[Click here to read more about pump mode, and coupling your virtual subject to DIY artificial pancreas software.](pump-mode.md)
+[Click here to read more about pump mode, and coupling your virtual subject to DIY artificial pancreas software.](../admin/pump_mode.md)

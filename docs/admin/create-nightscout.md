@@ -21,7 +21,7 @@ After a few seconds, the new Nightscout website is ready to be used, and its det
 
 <u>Notice the format of the URL.</u> You can copy-paste it in your browser and visit your (empty) Nightscout website. Feel free to change the password or "API secret". However, if you change the Nightscout URL, make sure you change it to an existing Nightscout instance.
 
-The instruction fur using Nightscout are available from the <a href="https://nightscout.github.io" target="_blank">official documentation</a>, but a the detailos more specific to CGMSIM are presented in our specific [Nightscout section](nightscout/profile.md).
+The instruction fur using Nightscout are available from the <a href="https://nightscout.github.io" target="_blank">official documentation</a>, but a the detailos more specific to CGMSIM are presented in our specific [Nightscout section](../nightscout/profile.md).
 
 ## Email Alerts
 Optionally, you can select to receive email notifications for hypoglycemic and hyperglycemic events.

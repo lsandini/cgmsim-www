@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "content added"
+git commit -m "internal links fixed"
 git push -u origin main
