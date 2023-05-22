@@ -29,7 +29,7 @@ theme:
       primary: teal
       accent: deep orange
   font:
-    text: Roboto
+    text: Catamaran
   custom_dir: overrides
 
 extra_javascript:
@@ -42,7 +42,7 @@ extra_css:
     #- stylesheets/admonitions.css
     # - stylesheets/appster.css
     - stylesheets/extra.css
-
+    - https://fonts.googleapis.com/css?family=Catamaran:300,300i,400,400i,700,700i,900,900i
 
 extra:
   social:
