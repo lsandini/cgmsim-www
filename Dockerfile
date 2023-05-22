@@ -8,6 +8,8 @@ WORKDIR /workspace
 
 COPY mkdocs.yml ./mkdocs.yml
 COPY docs ./docs
+COPY overrides ./overrides
+
 
 # Expose MkDocs development server port
 EXPOSE 8000
