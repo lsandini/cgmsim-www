@@ -17,7 +17,7 @@ Each simulated adult patient is coupled to a <a href="https://nightscout.github.
 
 ## New features :
 
-1. CGMSIM is a completely rewritten web application, **no longer requiring any installation**. You can either create an account, or log in using your Google or Fitbit credentials: <a href="https://cgmsim.com/auth" target="_blank"> https://cgmsim.com/auth</a>   <span style="color:red"> This URL above is temporary !!!</span>
+1. CGMSIM is a completely rewritten web application, **no longer requiring any installation**. You can either create an account, or log in using your Google or Fitbit credentials: <a href="https://cgmsim.com/auth" target="_blank"> https://cgmsim.com </a>
 
 2. If you are using a physical activity tracker, **CGMSIM can access your activity data** (such as steps and heart rate) from the <a href="https://www.fitbit.com/" target="_blank"> Fitbit </a> or <a href="https://www.google.com/fit/" target="_blank"> Google Fit</a> APIs and incorporate them into the simulation to calculate their impact on your simulated patient's blood glucose levels.
 
@@ -76,7 +76,9 @@ This website will describe step by step how create your virtual subject's profil
 
 ## Where is the source code ?
 
-**The source code and more technical details on how various scripts are excecuted and interact with each other can be found in the [CGMSIM project's repository](https://github.com/lsandini/cgmsim)**
+**The source code of the original CGMSIM project and more technical details on how various scripts are excecuted and interact with each other can be found in the [CGMSIM project's repository](https://github.com/lsandini/cgmsim). This version is now deprecated in favour of the new, multiuser version**.
+
+**Since the major code rewrite and update to CGMSIM v.3, the repository is private until further notice. We plan to release the library of functions if we notice a general interest of the project, or receive requests for the original code.**
 
 
 
