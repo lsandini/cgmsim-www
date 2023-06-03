@@ -1,8 +1,10 @@
 # Accessing the Profile editor
 
-Upon creation of the Nightscout website, you are prompted to enter a "Default Profile" before the website is ready to use. You can later access the profile editor again by clicking the central icon (or "hamburger") on the upper right corner of Nightscout.
+After the "standard" deployment of a Nightscout website, you are prompted to enter a "Default Profile" before the website is ready to be used. 
 
-The Profile editor allows you to create a basal insulin infusion profile, to simulate an insulin pump.
+When "spawning" or deploying Nightscout with CGMSIM, we take care of this step for you. You can access the profile editor again by clicking the central icon (or "hamburger") on the upper right corner of Nightscout.
+
+The Profile editor allows you to create or modify a basal insulin infusion profile, to simulate an insulin pump.
 
 ![Menu](../img/careportal.jpg)
 

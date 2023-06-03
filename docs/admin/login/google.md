@@ -1,4 +1,4 @@
-Google offers a range of cloud services, such as Gmail, Google Maps, and Google Drive. Google Fit is a mobile app and a cloud service that records your physical activity. Once you activate the Google Fit app on your phone, it will regularly update your physical activity data in the cloud.
+Google offers a range of cloud services, such as Gmail, Google Maps, and Google Drive, etc... Google Fit is a mobile app and a cloud service that stores records of your physical activity. Once you activate the Google Fit app on your phone, it will regularly update your physical activity data in the cloud.
 
 ## Activity Trackers
 Several fitness trackers can be linked to Google Fit: Apple Watch, Wear OS watches, Polar watches, Fossil Smartwatches, Oura rings, and even Fitbit watches using the FitToFit Android app. However, if you use an iOS device, your data will only sync when your phone is unlocked, which may cause delays for example at night.
@@ -29,5 +29,5 @@ Due to Google strict data protection policy, CGMSIM would need to undergo an ext
 ## 4. Activate the switch 
 <img src="../../img/login4.jpg" alt="Login page" width="400"/>
 
-You can "uncouple" your data from CGMSIM by deactivating the switch any time.
+You can "uncouple" your physical activity data from CGMSIM by deactivating the switch at any time.
 

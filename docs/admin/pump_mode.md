@@ -1,10 +1,10 @@
 ## Basal/bolus CSII
 
-In virtual pump mode, the basal infusion rate is set on [Nightscout's Profile Editor](../nightscout/profile.md).
+In virtual pump mode, there will be no long-acting insulin agonist. Instead, all insulin is provided as a continuous subcutaneous infusion of mealtime insulin. The basal infusion rate is set on [Nightscout's Profile Editor](../nightscout/profile.md).
 
-This is a simple implementation of a basic basal/bolus CSII, without temporary basal rates, bolus wizard or other special features.
+This is a simple implementation of a basic basal/bolus CSII, without temporary basal rates, extended boluses, bolus wizard or other special features.
 
-Bolusing is done by administrating mealtime insulin exactly as with Multiple Daily Injections. **There is no integrated controller or "AID" functionality** in CGMSIM.
+Bolusing is done by administrating mealtime insulin exactly as with Multiple Daily Injections. **There is no integrated controller or "AID" functionality** included in CGMSIM.
 
 ## DIYAPS
 
@@ -18,6 +18,6 @@ In Nightscout's settings, remember to activate the desired plugins (Pump + Loop/
 
 <hr>
 
-Read here about [setting the basal insulin infusion rates with Nightscout's Profile Editor"](../nightscout/profile.md)
+Read here about [setting the basal insulin infusion rates with Nightscout's Profile Editor](../nightscout/profile.md).
 
 <br>
