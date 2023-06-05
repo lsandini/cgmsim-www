@@ -1,4 +1,4 @@
-# Title
+# Physical Activity
 
 CGMSIM considers both your step count and heart rate, but only one factor is given priority at a time, while temporarily disregarding the other. This factor is then applied to the Insulin Sensitivity Factor (ISF) and/or the Endogenous Glucose Production (EGP).
 
