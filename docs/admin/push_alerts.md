@@ -11,6 +11,8 @@ Testflight is Apple's official app for distributing iOS applications for testing
 
 With Testflight installed, [request an invitation from one of the developers here !](../contact/contact.md) 
 
+Alternatively, just click on this link on **your iOS device**: [https://testflight.apple.com/join/Oz7Ybtjs](https://testflight.apple.com/join/Oz7Ybtjs)
+
 When requesting an invitation, <u>indicate the email address used as your Apple ID.</u> Once your request is accepted, <b>cgmsim-app</b> will be visible in Testflight and valid for 90 days. 
 
 You'll be prompted to install, update or open your app. Notice the expiration date ! A new version will be deployed every 90 days and you'll be prompted update your app. 
