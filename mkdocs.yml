@@ -109,6 +109,11 @@ nav:
     - nightscout/la-agonists.md
     - nightscout/activity.md
 
+- Web/Mobile:     
+    - app/index.md
+    - app/beginner.md
+    - app/intermediate.md
+
 - Mathematical models:
     - CGMSIM:  
         - Overview: 'model/overview.md'  
