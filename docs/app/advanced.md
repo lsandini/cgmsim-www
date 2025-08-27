@@ -1,25 +1,25 @@
 # Advanced mode
 
-Advanced mode simulates the use of an insulin pump, providing users with the most comprehensive diabetes management experience. Because of this, it requires the definition of detailed basal profiles to accurately reflect the pump's continuous insulin delivery throughout the day.
+Advanced mode simulates the use of an **insulin pump**, providing users with the most comprehensive and customizable diabetes management experience available in the app. This mode is specifically designed for experienced users who require full control over their therapy and wish to take advantage of advanced features. Because Advanced mode replicates the continuous insulin delivery of a real pump, it requires the definition of detailed basal profiles, allowing users to set different basal rates throughout the day to match their individual needs and daily routines.
 
-It is designed for experienced users who require full control and advanced features for diabetes management. It builds on all the functionalities of [**Beginner**](beginner.md) and [**Intermediate**](intermediate.md) modes, and introduces the following advanced options:
+It builds on all the functionalities of [**Beginner**](beginner.md) and [**Intermediate**](intermediate.md) modes, and introduces a range of advanced options that offer maximum flexibility and precision.
 
 ## Insulin Pump Support
 
-You can manage insulin pump settings, including basal rates, bolus delivery, and pump suspensions.
+Within Advanced mode, users can manage all aspects of their insulin pump, including configuring basal rates, delivering boluses, and suspending pump activity when necessary. This level of control closely mirrors the experience of using a real insulin pump, making the simulation both realistic and practical for training or therapy planning.
 
 ![Pump interface](../img/basal_pump.png)
 
 ## Basal Profile Management
 
-You can configure detailed basal insulin profiles, allowing for different basal rates throughout the day. This is especially useful for users with insulin pumps.
+The ability to configure detailed basal insulin profiles is a core feature of Advanced mode. Users can define multiple basal rates for different times of the day, ensuring that insulin delivery is closely aligned with their physiological needs. This is particularly beneficial for those who experience varying insulin requirements due to activity, meals, or other factors.
 
 ![Basal pump profile](../img/basal_pump_profile.png)
 
 ## Temporary Basal Insulin
 
-Advanced mode allows you to set temporary basal rates for a specified duration, helping to manage situations like exercise or illness.
+Advanced mode also allows users to set temporary basal rates for a specified duration. This feature is invaluable for managing situations such as exercise, illness, or other events that temporarily alter insulin needs, providing an extra layer of adaptability and safety.
 
 ![Temporary basal](../img/basal_pump_temp.png)
 
-All features from [**Beginner**](beginner.md) and [**Intermediate**](intermediate.md) modes remain available in Advanced mode, providing maximum flexibility and control.
+All features from [**Beginner**](beginner.md) and [**Intermediate**](intermediate.md) modes remain available in Advanced mode, ensuring that users have access to the full spectrum of diabetes management tools as their experience and requirements grow.
