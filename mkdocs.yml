@@ -103,16 +103,17 @@ nav:
               - Model: admin/model.md
               - Pump Mode: admin/pump_mode.md
 
-- Nightscout: 
-    - nightscout/profile.md
-    - nightscout/meals.md
-    - nightscout/la-agonists.md
-    - nightscout/activity.md
+# - Nightscout: 
+#     - nightscout/profile.md
+#     - nightscout/meals.md
+#     - nightscout/la-agonists.md
+#     - nightscout/activity.md
 
 - Web/Mobile:     
     - app/index.md
     - app/beginner.md
     - app/intermediate.md
+    - app/advanced.md
 
 - Mathematical models:
     - CGMSIM:  
