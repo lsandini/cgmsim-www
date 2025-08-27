@@ -1,12 +1,14 @@
 FROM python:3.11.3-alpine
 
-RUN apk --no-cache add lftp ca-certificates openssh && \
-    pip install mkdocs mkdocs-material mkdocs-bootswatch
+RUN apk --no-cache add lftp ca-certificates openssh
 
 RUN mkdir /workspace
 WORKDIR /workspace
 
 COPY mkdocs.yml ./mkdocs.yml
+COPY requirements.txt ./requirements.txt
+RUN pip install -r requirements.txt
+
 COPY docs ./docs
 COPY overrides ./overrides
 
