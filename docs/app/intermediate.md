@@ -1,8 +1,8 @@
 # Intermediate mode
 
-Intermediate mode builds upon Beginner mode, adding more advanced features for users who want greater control over their diabetes management.
+Intermediate mode builds upon [**Beginner**](beginner.md) mode, adding more advanced features for users who want greater control over their diabetes management.
 
-It includes all the functionalities of Beginner mode (manual entry of carbohydrates, rapid-acting and basal insulin), and introduces the following enhancements:
+It includes all the functionalities of [**Beginner**](beginner.md) mode (manual entry of carbohydrates, rapid-acting and basal insulin), and introduces the following enhancements:
 
 ![Intermediate mode interface](../img/intermediate.png)
 
@@ -30,4 +30,4 @@ Intermediate mode allows you to define and log alcoholic drinks. This feature he
 
 ![Alcoholic drinks](../img/drinks.png)
 
-All features from Beginner mode, such as correction bolus and basal insulin logging, remain available in Intermediate mode.
+All features from [**Beginner**](beginner.md) mode, such as correction bolus and basal insulin logging, remain available in Intermediate mode.
