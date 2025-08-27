@@ -19,4 +19,14 @@ Click on the images below to open the app:
 
 Open Careportal by pressing the **"+"** button in the middle of the page.
 
-Depending on your configuration, Careportal can be displayed in three different modes:
+![Careportal ](../img/plus.png)
+
+## Open CGMSim settings
+
+In the Careportal settings, you can open the CgmSim configuration by clicking on the dedicated command.
+
+![Careportal ](../img/beginner_settings.png)
+
+## Careportal Modes
+
+Depending on your configuration, Careportal can be displayed in three different modes: [**Beginner**](beginner.md), [**Intermediate**](intermediate.md), [**Advanced**](advanced.md)
