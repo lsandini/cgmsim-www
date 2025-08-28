@@ -1,6 +1,6 @@
 # Beginner mode
 
-Beginner mode simulates therapy with **multiple daily injections** and is designed to offer the simplest and most accessible way to interact with the simulator. It is ideal for those who are new to diabetes management or prefer a straightforward approach. In this mode, users can manually enter the amount of carbohydrates consumed during meals or snacks, and administer both rapid-acting and long-acting (basal) insulin. The interface is intentionally kept simple, showing only the essential options to avoid overwhelming users with advanced settings or calculations.
+Beginner mode simulates therapy with **multiple daily injections** and is designed to offer the simplest and most accessible way to interact with the simulator. It is ideal for those who are new to diabetes management or prefer a straightforward approach. In this mode, users can manually enter the amount of **carbohydrates** consumed during meals or snacks, and administer both **rapid-acting** and **long-acting** (basal) insulin. The interface is intentionally kept simple, showing only the essential options to avoid overwhelming users with advanced settings or calculations.
 
 ![Beginner mode interface](../img/beginner.png)
 

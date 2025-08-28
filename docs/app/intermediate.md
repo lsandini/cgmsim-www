@@ -1,6 +1,6 @@
 # Intermediate mode
 
-Intermediate mode simulates therapy with **multiple daily injections** and builds upon the foundation of [**Beginner**](beginner.md) mode. It keeps the simplicity of manual carbohydrate and insulin entry, while introducing several advanced features. In this mode, users can set a personal insulin-to-carbohydrate ratio (CR) for automatic bolus calculation, making meal and therapy management more precise, flexible, and tailored to individual needs. Additionally, users can log cortisone administration—which is important for tracking medications that may impact blood glucose—and record alcohol intake, allowing for better monitoring of factors that can influence glycemic control during daily life or social occasions.
+Intermediate mode simulates therapy with **multiple daily injections** and builds upon the foundation of [**Beginner**](beginner.md) mode. It keeps the simplicity of manual carbohydrate and insulin entry, while introducing several advanced features. In this mode, users can set a personal **insulin-to-carbohydrate ratio** (CR) for automatic **Meal bolus calculation**, making meal and therapy management more precise, flexible, and tailored to individual needs. Additionally, users can log **cortisone administration** (which is important for tracking medications that may impact blood glucose) and record **alcohol intake**, allowing for better monitoring of factors that can influence glycemic control during daily life or social occasions.
 
 ![Intermediate mode interface](../img/intermediate.png)
 

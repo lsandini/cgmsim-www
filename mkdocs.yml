@@ -101,7 +101,7 @@ nav:
               - Push Alerts: admin/push_alerts.md
               - Activate: admin/activate.md
               - Model: admin/model.md
-              - Pump Mode: admin/pump_mode.md
+              - Mode: admin/pump_mode.md
 
 # - Nightscout: 
 #     - nightscout/profile.md

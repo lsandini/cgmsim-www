@@ -1,23 +1,22 @@
-## Basal/bolus CSII
+## Switch Modes
 
-In virtual pump mode, there will be no long-acting insulin agonist. Instead, all insulin is provided as a continuous subcutaneous infusion of mealtime insulin. The basal infusion rate is set on [Nightscout's Profile Editor](../nightscout/profile.md).
+You can change mode at any time to adapt the simulator to your needs and experience level.
+![Mode selection interface](../img/mode.png)
 
-This is a simple implementation of a basic basal/bolus CSII, without temporary basal rates, extended boluses, bolus wizard or other special features.
+---
 
-Bolusing is done by administrating mealtime insulin exactly as with Multiple Daily Injections. **There is no integrated controller or "AID" functionality** included in CGMSIM.
+## Beginner Mode
 
-## DIYAPS
+[Beginner Mode](../app/beginner.md) simulates therapy with **multiple daily injections** and is designed to offer the simplest and most accessible way to interact with the simulator. It is ideal for those who are new to diabetes management or prefer a straightforward approach. Users can manually enter the amount of carbohydrates consumed and administer both rapid-acting and long-acting (basal) insulin. The interface is intentionally kept simple, showing only the essential options.
 
-This is way out of the scope of CGMSIM, but there is no reason why a virtual T1D subject could not be attached to a DIYAPS system. 
+---
 
-If you decide to connect your virtual patient to a device running iOS Loop, FreeAPS, openAPS, or AndroidAPS, simply activate pump mode and declare the URL of your Nightscout instance in the settings of your DIYAPS device.
+## Intermediate Mode
 
-In Nightscout's settings, remember to activate the desired plugins (Pump + Loop/OpenAPS).
+[Intermediate Mode](../app/intermediate.md) also simulates therapy with **multiple daily injections** and builds upon Beginner mode. It introduces advanced features such as setting a personal insulin-to-carbohydrate ratio (CR) for automatic meal bolus calculation, logging cortisone administration, and recording alcohol intake. This mode is suitable for users who want more flexibility and precision in their therapy management.
 
-<img src="../img/ns_diyaps.jpg" alt="Hamburger Menu" width="400"/>
+---
 
-<hr>
+## Advanced Mode
 
-Read here about [setting the basal insulin infusion rates with Nightscout's Profile Editor](../nightscout/profile.md).
-
-<br>
+[Advanced Mode](../app/advanced.md) simulates the use of an **insulin pump**, providing the most comprehensive and customizable diabetes management experience. It is designed for experienced users who require full control over their therapy. Advanced mode allows configuration of detailed basal profiles, temporary basal rates, and all features from Beginner and Intermediate modes.

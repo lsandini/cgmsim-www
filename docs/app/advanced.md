@@ -1,6 +1,6 @@
 # Advanced mode
 
-Advanced mode simulates the use of an **insulin pump**, providing users with the most comprehensive and customizable diabetes management experience available in the app. This mode is specifically designed for experienced users who require full control over their therapy and wish to take advantage of advanced features. Because Advanced mode replicates the continuous insulin delivery of a real pump, it requires the definition of detailed basal profiles, allowing users to set different basal rates throughout the day to match their individual needs and daily routines.
+Advanced mode simulates the use of an **insulin pump**, providing users with the most comprehensive and customizable diabetes management experience available in the app. This mode is specifically designed for experienced users who require full control over their therapy and wish to take advantage of advanced features. Because Advanced mode replicates the continuous insulin delivery of a real pump, it requires the definition of detailed **basal profiles**, allowing users to set different basal rates throughout the day to match their individual needs and daily routines.
 
 It builds on all the functionalities of [**Beginner**](beginner.md) and [**Intermediate**](intermediate.md) modes, and introduces a range of advanced options that offer maximum flexibility and precision.
 
@@ -18,7 +18,7 @@ The ability to configure detailed basal insulin profiles is a core feature of Ad
 
 ## Temporary Basal Insulin
 
-Advanced mode also allows users to set temporary basal rates for a specified duration. This feature is invaluable for managing situations such as exercise, illness, or other events that temporarily alter insulin needs, providing an extra layer of adaptability and safety.
+Advanced mode also allows the use of the **temporary basal** (temp basal) feature, which lets users temporarily adjust the basal insulin delivery rate for a defined period. This option is especially useful during physical activity, illness, or other situations that require a temporary change in insulin needs.
 
 ![Temporary basal](../img/basal_pump_temp.png)
 
