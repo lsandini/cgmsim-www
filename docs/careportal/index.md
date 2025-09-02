@@ -23,13 +23,13 @@ You can install the Mobile App from the Google Play Store or Apple App Store. Fo
 
 To interact with the patient simulator, use the Careportal by pressing the "+" button in the center of the page. This opens an interface where you can log treatments, meals, insulin doses, and more—all in one place for easy tracking and review. Careportal makes it simple to manage and record your activities with the simulator.
 
-![Careportal ](../img/plus.png)
+![Careportal ](../img/f1.gif)
 
 ## Opening CGMSim Settings
 
 Within Careportal settings, you can quickly access the CgmSim configuration by clicking the dedicated command. This lets you view and modify simulator settings.
 
-![Careportal ](../img/beginner_settings.png)
+![Careportal ](../img/f5.gif)
 
 ## Careportal Modes
 
