@@ -1,20 +1,25 @@
-# Using the App
+# The Careportal
 
-This page provides a detailed guide to using Careportal within the app, helping you navigate the main features and settings to interact with the patient simulator.
+This page provides a detailed guide to using Careportal. The Careportal can be accessed in two ways: either through a web application, which is available on both mobile and desktop devices, or via a dedicated mobile app. This flexibility allows you to choose the platform that best suits your needs, whether you prefer using a browser or a native app on your smartphone or tablet.
 
-## Opening the Webapp
+## The Webapp
 
 After logging in through your web browser, the webapp loads automatically, giving you instant access to the Nightscout view. If you need to return to the CgmSim configuration, simply open the settings menu and select "CgmSim Settings". This way, you can always adjust your simulator settings as needed.
 
-## Installing the Mobile App
+## The Mobile App
 
-The app is also available for mobile devices, making diabetes management easy wherever you are. You can install it from the Google Play Store or Apple App Store. For your convenience, click the images below to go directly to the app’s page in the respective store.
+You can install the Mobile App from the Google Play Store or Apple App Store. For your convenience, click the images below to go directly to the app’s page in the respective store.
 
-[![Android App](../img/google_play.png)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+<p style="display: flex; gap: 16px; align-items: center;">
+  <a href="https://play.google.com/store/apps/details?id=cgmsim.app" target="_blank">
+    <img src="../img/google_play.png" alt="Android App" style="height:60px; width:auto;"/>
+  </a>
+  <a href="https://apps.apple.com/fi/app/cgmsim/id1667105182" target="_blank">
+    <img src="../img/app_store.png" alt="iOS App" style="height:60px; width:auto;"/>
+  </a>
+</p>
 
-[![iOS App](../img/app_store.png)](https://apps.apple.com/app/idYOUR_IOS_APP_ID)
-
-## Using Careportal
+## Using the Careportal
 
 To interact with the patient simulator, use the Careportal by pressing the "+" button in the center of the page. This opens an interface where you can log treatments, meals, insulin doses, and more—all in one place for easy tracking and review. Careportal makes it simple to manage and record your activities with the simulator.
 
