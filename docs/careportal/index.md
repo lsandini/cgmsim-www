@@ -1,6 +1,6 @@
 # The Careportal
 
-This page provides a detailed guide to using Careportal. The Careportal can be accessed in two ways: either through a web application, which is available on both mobile and desktop devices, or via a dedicated mobile app. This flexibility allows you to choose the platform that best suits your needs, whether you prefer using a browser or a native app on your smartphone or tablet.
+The Careportal can be accessed in two ways: either through a web application, which is available on both mobile and desktop devices, or via a dedicated mobile app. This flexibility allows you to choose the platform that best suits your needs, whether you prefer using a browser or a native app on your smartphone or tablet.
 
 ## The Webapp
 
