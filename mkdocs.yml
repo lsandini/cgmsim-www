@@ -110,10 +110,10 @@ nav:
 #     - nightscout/activity.md
 
 - Careportal:     
-    - app/index.md
-    - app/beginner.md
-    - app/intermediate.md
-    - app/advanced.md
+    - careportal/index.md
+    - careportal/beginner.md
+    - careportal/intermediate.md
+    - careportal/advanced.md
 
 - Mathematical models:
     - CGMSIM:  
