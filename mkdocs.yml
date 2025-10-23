@@ -97,9 +97,7 @@ nav:
               - Define Subject: admin/subject.md
               - CGMSIM parameters: admin/parameters.md
               - Noise: admin/noise.md
-              - Kickstart: admin/kickstart.md
               - Push Alerts: admin/push_alerts.md
-              - Activate: admin/activate.md
               - Model: admin/model.md
               - Mode: admin/pump_mode.md
 

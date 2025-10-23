@@ -22,7 +22,7 @@ Intermediate mode also supports the recording of cortisone administration. Since
 
 ![Cortisone entry](../img/chortisol.png)
 
-## Alcoholic Drinks Management
+## Alcoholic Drinks Intake
 
 In addition to the above, Intermediate mode allows users to define and log alcoholic drinks. This functionality is particularly useful for tracking the effects of alcohol on blood glucose and insulin requirements, supporting safer choices during social occasions and better overall control.
 

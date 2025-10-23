@@ -14,7 +14,7 @@ In Beginner mode, you can manually enter carbohydrates and insulin in a simple w
 
 With the "Carb Correction" menu, you can enter the amount of carbohydrates to treat a low blood glucose (hypoglycemia).
 
-![Carb Correction entry](../img/fast_insuline.png)
+![Carb Correction entry](../img/food.png)
 
 ## Correction Bolus
 

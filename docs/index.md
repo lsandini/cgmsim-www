@@ -11,10 +11,9 @@ CGMSIM **simulates** a continuous glucose monitoring (CGM) system depicting chan
 
 Each simulated CGMSIM patient is coupled to a <a href="https://nightscout.github.io/" target="_blank"> Nightscout </a> website, used to display the CGM curve and to declare meals and insulin doses. CGMSIM provides a new, personal Nightscout instance if needed.
 
-
 <u>Manage your virtual patient in a browser with your handeld device, CGMSIM runs in the cloud !</u>
 
-<img src="img/handheld3.svg" alt="Login page" width="225"/> &nbsp;&nbsp; <img src="img/CGMSIM.gif" alt="Login page" width="400"/> &nbsp;&nbsp;  <img src="img/datacenter.svg" alt="Login page" width="225"/>
+<img src="img/handheld3.svg" alt="Login page" width="225"/> &nbsp;&nbsp; <img src="img/CGMSIM.gif" alt="Login page" width="400"/> &nbsp;&nbsp; <img src="img/datacenter.svg" alt="Login page" width="225"/>
 
 ## New features :
 
@@ -26,8 +25,8 @@ Each simulated CGMSIM patient is coupled to a <a href="https://nightscout.github
 
 4. The developers of the <a href="https://lt1.org/" target="_blank"> LoopInsightT1 simulator</a> have reworked the **UVA/Padova simulation** mathematics, and we have incorporated this model into CGMSIM.
 
-5. CGMSIM offers optional **email alerts** for high and low blood glucose levels. Moreover, immediate **push notifications**  are available for mobile devices, using a separate iOS or Android application.
-<br>
+5. CGMSIM offers optional **email alerts** for high and low blood glucose levels. Moreover, immediate **push notifications** are available for mobile devices, using a separate iOS or Android application.
+   <br>
 
 ## Introduction
 
@@ -36,14 +35,13 @@ Since even the most accurate physiological simulators can at best provide only a
 The treatment goal in type 1 diabetes is to keep the BG or CGM curve values as close as possible to that of a healthy person. In realistic terms, it means 3.9 – 10 mmol/l or 70-180 mg/dl for CGM curves. The Time In Range (TIR) should be at least 70%.
 
 !!! warning "Important"
-    Please understand that this simulation:
+Please understand that this simulation:
 
     - cannot predict individual response to treatment
     - cannot replace traditional patient/caregiver education
     - does not depict 100% realistically human physiology
 
     **This is work in progress, and all feedback is welcome !**
-
 
 ## Human physiology
 
@@ -57,30 +55,25 @@ To understand the mechanics of the simulation, a few things must be considered.
 
 4. **Mealtime insulins** have a short duration of activity (DIA, ~3 hours), while **long-acting insulin analogs** are meant to be injected once or twice a day. Both will lower blood glucose and thus CGM values.
 
-5. The intricate biological pathways affecting the blood glucose variations are difficult to replicate mathematically. The absorption of ingested food from the gut, the absorption of insulin from the subcutaneous tissue, the timing of exercise, the circadian rhythm, menstrual cycle, the moon phase and the alignment of planets and stars :wink: all seem to play a role. Adding a touch of **random variation** (or chaos) brings some realism into the simulation.  
-
+5. The intricate biological pathways affecting the blood glucose variations are difficult to replicate mathematically. The absorption of ingested food from the gut, the absorption of insulin from the subcutaneous tissue, the timing of exercise, the circadian rhythm, menstrual cycle, the moon phase and the alignment of planets and stars :wink: all seem to play a role. Adding a touch of **random variation** (or chaos) brings some realism into the simulation.
 
 ## Why use a simulator ?
 
-Many **scenario-based** simulators have been written in the past, like [AIDA](http://www.2aida.org/) or the [UVA/Padova T1DMS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4454102/). In contrast, CGMSIM runs in **real time** like a "serious game" or a "tamagotchi". It requires time and dedication to reach its goal. It is not a matter of hours or days, but rather weeks or months. 
+Many **scenario-based** simulators have been written in the past, like [AIDA](http://www.2aida.org/) or the [UVA/Padova T1DMS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4454102/). In contrast, CGMSIM runs in **real time** like a "serious game" or a "tamagotchi". It requires time and dedication to reach its goal. It is not a matter of hours or days, but rather weeks or months.
 
 !!! danger "Healthcare Professionals - HCPs"
-    Unless you or your family member has T1D, it is hard to figure how treatment can be time-consuming, technically difficult or frustrating. Even without having to worry about the risk of long-term vascular complications or acute life-threatening hypoglycemia, early adopters of this simulator showed signs of treatment fatigue after a few weeks already.
+Unless you or your family member has T1D, it is hard to figure how treatment can be time-consuming, technically difficult or frustrating. Even without having to worry about the risk of long-term vascular complications or acute life-threatening hypoglycemia, early adopters of this simulator showed signs of treatment fatigue after a few weeks already.
 
     Living with incertainty 24/7, and facing reports of treatment "success" will teach some humility and empathy.
 
-
 !!! info "Not all patients are equal..."
-    Every simulated patient can be defined in terms of weight, height, gender, age, insulin sensitivity, amplitude of EGP variability and carb ratio.
+Every simulated patient can be defined in terms of weight, height, gender, age, insulin sensitivity, amplitude of EGP variability and carb ratio.
 
 This website will describe step by step how create your virtual subject's profile, and how to use the simulator.
 
-## Where is the source code ?
+## Where is the source code?
 
-**The source code of the original CGMSIM project and more technical details on how various scripts are excecuted and interact with each other can be found in the [CGMSIM project's repository](https://github.com/lsandini/cgmsim). This version is now deprecated in favour of the new, multiuser version**.
-
-**Since the major code rewrite and update to CGMSIM v.3, the repository is private until further notice. We plan to release the library of functions if we notice a general interest of the project, or receive requests for the original code.**
-
+**Starting from version 3, the simulator has been included in a dedicated library, whose source code is available in the [CGMSim project's repository](https://github.com/lsandini/cgmsim-lib). This library is used by the cgmsim.com service, but it can also be run in stand-alone mode using the [CGMSim Runner App](https://github.com/lsandini/cgmsim-runner-ui).**
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DEJWGQQJ5"></script>
